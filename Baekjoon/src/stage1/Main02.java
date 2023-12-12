@@ -2,7 +2,7 @@ package stage1;
 
 import java.util.Scanner;
 
-public class Main6 {
+public class Main02 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -12,10 +12,6 @@ public class Main6 {
 		int B = sc.nextInt(); // int ÀÔ·Â
 		
 		System.out.println(A+B);
-		System.out.println(A-B);
-		System.out.println(A*B);
-		System.out.println(A/B);
-		System.out.println(A%B);
 		
 		//Scanner ´Ý±â
 		sc.close();
